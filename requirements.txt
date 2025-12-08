@@ -1,0 +1,10 @@
+# GlassWorm Scanner - Python Requirements
+# The scanner uses only built-in Python libraries:
+# - os
+# - hashlib
+# - re
+# - json
+# - base64
+
+# No external packages required
+# Only standard library is used for security and portability
